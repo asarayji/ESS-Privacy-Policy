@@ -1,8 +1,12 @@
 HR System ESS Privacy Policy
-Last Updated: April 20, 2026
+Last Updated: June 07, 2026
 
 1. Introduction
-Welcome to the HR System ESS app, developed by NAIM AWAD AND PARTNERS COMPANY. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to the HR System ESS app, developed and operated by Mozon Technologies, the trade name and technology brand of NAIM AWAD AND PARTNERS COMPANY ("we", "our", or "us").
+
+NAIM AWAD AND PARTNERS COMPANY is the legal entity responsible for the HR System ESS application and its services.
+
+We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 2. Information We Collect
 
@@ -60,9 +64,12 @@ Our app is not intended for use by individuals under the age of 18. We do not kn
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the updated Privacy Policy will take effect immediately upon posting.
 
 10. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact NAIM AWAD AND PARTNERS COMPANY at:
+If you have any questions or concerns about this Privacy Policy, please contact us:
 
-Developer Email: aalsurmi@mozon-tech.com
+Mozon Technologies
+(Legal Entity: NAIM AWAD AND PARTNERS COMPANY)
+
+Developer Email: aalsurmi@mozonsoft.com
 
 Administrative Email: asarayji@mozonsoft.com
 
